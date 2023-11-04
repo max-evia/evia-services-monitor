@@ -59,8 +59,6 @@ status-website:
       href: https://docs.evia.network
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/evia-network
   theme: night
 
 # Upptime also supports notifications, assigning issues, and more
