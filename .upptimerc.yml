@@ -26,7 +26,7 @@ status-website:
   cname: status.evia.network
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/evia-network/evia-network-assets/main/evia-logo-light-name.svg
-  # name: Upptime
+  name: Evia Network Status
   introTitle: "The official uptime monitor and status page for Evia Network Products and Services."
   introMessage: Find out the uptime status for your favorite Evia Network Product or Service. Any outages on our network should be visible here.
   navbar:
