@@ -3,29 +3,37 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Evia Network Website
+    url: https://www.evia.network
+  - name: Evia Network DApp
+    url: https://app.evia.network
+  - name: Evia CosmoDash
+    url: https://cosmodash.zone
+  - name: Evia Network DApp API
+    url: https://api.propel.evianetwork.com
+  - name: Evia CosmoDash API
+    url: https://api.cosmodash.evia.network 
+  - name: KitKat Website
+    url: https://www.kitkat.zone
+  - name: KitKat Explorer
+    url: https://explorer.kitkat.zone
+  - name: KitKat Faucet API
+    url: https://api.faucet.kitkat.zone
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.evia.network
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/evia-network/evia-network-assets/main/evia-logo-light-name.svg
+  # name: Upptime
+  introTitle: "The official uptime monitor and status page for Evia Network Products and Services."
+  introMessage: Find out the uptime status for your favorite Evia Network Product or Service. Any outages on our network should be visible here.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/evia-network
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
