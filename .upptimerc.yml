@@ -9,6 +9,8 @@ sites:
     url: https://app.evia.network
   - name: Evia CosmoDash
     url: https://cosmodash.zone
+  - name: Evia Network Docs
+    url: https://docs.evia.network
   - name: Evia Network DApp API
     url: https://api.propel.evianetwork.com
   - name: Evia CosmoDash API
@@ -30,10 +32,17 @@ status-website:
   introTitle: "The official uptime monitor and status page for Evia Network Products and Services."
   introMessage: Find out the uptime status for your favorite Evia Network Product or Service. Any outages on our network should be visible here.
   navbar:
+    - title: Home
+      href: https://evia.network
+    - title: App
+      href: https://app.evia.network
+    - title: Docs
+      href: https://docs.evia.network
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/evia-network
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
