@@ -5,22 +5,40 @@ repo: max-evia.github.io # The name of this repository
 sites:
   - name: Evia Network Website
     url: https://www.evia.network
+    assignees:
+      - EviaNetwork
   - name: Evia Network DApp
     url: https://app.evia.network
+    assignees:
+      - EviaNetwork
   - name: Evia CosmoDash
     url: https://cosmodash.zone
+    assignees:
+      - EviaNetwork
   - name: Evia Network Docs
     url: https://docs.evia.network
+    assignees:
+      - EviaNetwork
   - name: Evia Network DApp API
     url: https://api.propel.evianetwork.com
+    assignees:
+      - max-evia
   - name: Evia CosmoDash API
     url: https://api.cosmodash.evia.network 
+    assignees:
+      - max-evia
   - name: KitKat Website
     url: https://www.kitkat.zone
+    assignees:
+      - EviaNetwork
   - name: KitKat Explorer
     url: https://explorer.kitkat.zone
+    assignees:
+      - EviaNetwork
   - name: KitKat Faucet API
     url: https://api.faucet.kitkat.zone
+    assignees:
+      - max-evia
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -28,7 +46,8 @@ status-website:
   cname: status.evia.network
   # baseUrl: /max-evia.github.io
   logoUrl: https://raw.githubusercontent.com/evia-network/evia-network-assets/main/evia-logo-light-name.svg
-  name: Evia Network Status
+  faviconSvg: https://raw.githubusercontent.com/evia-network/evia-network-assets/main/evia-favicon.svg
+  name: 
   introTitle: "The official uptime monitor and status page for Evia Network Products and Services."
   introMessage: Find out the uptime status for your favorite Evia Network Product or Service. Any outages on our network should be visible here.
   navbar:
@@ -42,7 +61,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/evia-network
-  theme: dark
+  theme: ocean
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
