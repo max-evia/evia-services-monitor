@@ -45,9 +45,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.evia.network
   # baseUrl: /max-evia.github.io
-  logoUrl: https://raw.githubusercontent.com/evia-network/evia-network-assets/main/evia-logo-light-name.svg
+  logoUrl: https://raw.githubusercontent.com/evia-network/evia-network-assets/main/evia-logo-light.svg
   faviconSvg: https://raw.githubusercontent.com/evia-network/evia-network-assets/main/evia-favicon.svg
-  name: 
+  name: "Evia Network Status"
   introTitle: "The official uptime monitor and status page for Evia Network Products and Services."
   introMessage: Find out the uptime status for your favorite Evia Network Product or Service. Any outages on our network should be visible here.
   navbar:
@@ -61,7 +61,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/evia-network
-  theme: ocean
+  theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
