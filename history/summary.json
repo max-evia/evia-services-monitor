@@ -13,7 +13,7 @@
     "time": 154,
     "timeDay": 96,
     "timeWeek": 132,
-    "timeMonth": 154,
+    "timeMonth": 159,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 512,
     "timeDay": 382,
     "timeWeek": 599,
-    "timeMonth": 512,
+    "timeMonth": 507,
     "timeYear": 512,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 505,
     "timeDay": 374,
     "timeWeek": 496,
-    "timeMonth": 505,
+    "timeMonth": 484,
     "timeYear": 505,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 308,
     "timeDay": 256,
     "timeWeek": 188,
-    "timeMonth": 308,
+    "timeMonth": 254,
     "timeYear": 308,
     "dailyMinutesDown": {}
   },
@@ -76,18 +76,20 @@
     "url": "https://api.propel.evianetwork.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.propel.evianetwork.com.ico",
     "slug": "evia-network-d-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 361,
-    "timeWeek": 494,
-    "timeMonth": 434,
-    "timeYear": 434,
-    "dailyMinutesDown": {}
+    "time": 430,
+    "timeDay": 331,
+    "timeWeek": 475,
+    "timeMonth": 435,
+    "timeYear": 430,
+    "dailyMinutesDown": {
+      "2023-12-04": 0
+    }
   },
   {
     "name": "Evia CosmoDash API",
@@ -103,7 +105,7 @@
     "time": 400,
     "timeDay": 292,
     "timeWeek": 371,
-    "timeMonth": 400,
+    "timeMonth": 398,
     "timeYear": 400,
     "dailyMinutesDown": {}
   },
@@ -121,7 +123,7 @@
     "time": 627,
     "timeDay": 175,
     "timeWeek": 405,
-    "timeMonth": 627,
+    "timeMonth": 642,
     "timeYear": 627,
     "dailyMinutesDown": {}
   },
@@ -139,7 +141,7 @@
     "time": 184,
     "timeDay": 868,
     "timeWeek": 214,
-    "timeMonth": 184,
+    "timeMonth": 167,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -157,7 +159,7 @@
     "time": 420,
     "timeDay": 297,
     "timeWeek": 364,
-    "timeMonth": 420,
+    "timeMonth": 414,
     "timeYear": 420,
     "dailyMinutesDown": {}
   }
