@@ -76,19 +76,19 @@
     "url": "https://api.propel.evianetwork.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.propel.evianetwork.com.ico",
     "slug": "evia-network-d-app-api",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 451,
-    "timeDay": 554,
-    "timeWeek": 529,
-    "timeMonth": 460,
-    "timeYear": 451,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 452,
+    "timeDay": 548,
+    "timeWeek": 528,
+    "timeMonth": 461,
+    "timeYear": 452,
     "dailyMinutesDown": {
-      "2023-12-04": 17
+      "2023-12-04": 35
     }
   },
   {
