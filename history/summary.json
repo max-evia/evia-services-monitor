@@ -58,19 +58,19 @@
     "url": "https://docs.evia.network",
     "icon": "https://icons.duckduckgo.com/ip3/docs.evia.network.ico",
     "slug": "evia-network-docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 167,
-    "timeWeek": 175,
-    "timeMonth": 210,
-    "timeYear": 286,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.90%",
+    "time": 283,
+    "timeDay": 141,
+    "timeWeek": 166,
+    "timeMonth": 206,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2023-12-20": 0
+      "2023-12-20": 68
     }
   },
   {
