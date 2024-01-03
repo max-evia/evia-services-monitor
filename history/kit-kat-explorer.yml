@@ -1,7 +1,7 @@
 url: https://explorer.kitkat.zone
-status: up
-code: 200
-responseTime: 92
-lastUpdated: 2024-01-02T23:07:36.133Z
+status: down
+code: 500
+responseTime: 126
+lastUpdated: 2024-01-03T16:57:58.141Z
 startTime: 2023-11-04T04:53:19.065Z
 generator: Upptime <https://github.com/upptime/upptime>
