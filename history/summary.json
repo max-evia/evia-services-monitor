@@ -134,19 +134,19 @@
     "url": "https://explorer.kitkat.zone",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kitkat.zone.ico",
     "slug": "kit-kat-explorer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 156,
-    "timeDay": 109,
-    "timeWeek": 128,
+    "timeDay": 130,
+    "timeWeek": 133,
     "timeMonth": 145,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 15
     }
   },
   {
