@@ -134,18 +134,20 @@
     "url": "https://explorer.kitkat.zone",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kitkat.zone.ico",
     "slug": "kit-kat-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 92,
+    "timeDay": 109,
     "timeWeek": 128,
     "timeMonth": 145,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "KitKat Faucet API",
