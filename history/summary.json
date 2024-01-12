@@ -40,9 +40,9 @@
     "url": "https://cosmodash.zone",
     "icon": "https://icons.duckduckgo.com/ip3/cosmodash.zone.ico",
     "slug": "evia-cosmo-dash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 572,
     "timeMonth": 536,
     "timeYear": 507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 0
+    }
   },
   {
     "name": "Evia Network Docs",
@@ -105,7 +107,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 572,
+    "timeDay": 479,
     "timeWeek": 487,
     "timeMonth": 404,
     "timeYear": 401,
