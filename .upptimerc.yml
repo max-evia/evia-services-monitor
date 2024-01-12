@@ -12,7 +12,7 @@ sites:
     assignees:
       - EviaNetwork
   - name: Evia CosmoDash
-    url: https://cosmodash.zone
+    url: https://cosmodash.evia.network
     assignees:
       - EviaNetwork
   - name: Evia Network Docs
