@@ -40,19 +40,19 @@
     "url": "https://cosmodash.zone",
     "icon": "https://icons.duckduckgo.com/ip3/cosmodash.zone.ico",
     "slug": "evia-cosmo-dash",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "85.36%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.79%",
-    "time": 501,
-    "timeDay": 498,
-    "timeWeek": 507,
-    "timeMonth": 520,
-    "timeYear": 501,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "84.14%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.77%",
+    "time": 496,
+    "timeDay": 348,
+    "timeWeek": 456,
+    "timeMonth": 506,
+    "timeYear": 496,
     "dailyMinutesDown": {
-      "2024-01-12": 211
+      "2024-01-12": 229
     }
   },
   {
