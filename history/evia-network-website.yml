@@ -1,7 +1,7 @@
 url: https://www.evia.network
-status: up
-code: 200
-responseTime: 478
-lastUpdated: 2024-01-16T23:07:39.546Z
+status: down
+code: 500
+responseTime: 2312
+lastUpdated: 2024-01-17T21:46:12.013Z
 startTime: 2023-11-04T04:53:12.532Z
 generator: Upptime <https://github.com/upptime/upptime>
