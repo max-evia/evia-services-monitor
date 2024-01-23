@@ -105,10 +105,10 @@
     "url": "https://api.cosmodash.evia.network",
     "icon": "https://icons.duckduckgo.com/ip3/api.cosmodash.evia.network.ico",
     "slug": "evia-cosmo-dash-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 400,
@@ -117,6 +117,7 @@
     "timeMonth": 410,
     "timeYear": 400,
     "dailyMinutesDown": {
+      "2024-01-23": 1,
       "2024-01-20": 16
     }
   },
@@ -163,9 +164,9 @@
     "url": "https://api.faucet.kitkat.zone",
     "icon": "https://icons.duckduckgo.com/ip3/api.faucet.kitkat.zone.ico",
     "slug": "kit-kat-faucet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -174,6 +175,8 @@
     "timeWeek": 413,
     "timeMonth": 408,
     "timeYear": 405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-23": 0
+    }
   }
 ]
