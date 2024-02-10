@@ -113,7 +113,7 @@
     "uptimeYear": "99.77%",
     "time": 391,
     "timeDay": 294,
-    "timeWeek": 371,
+    "timeWeek": 359,
     "timeMonth": 390,
     "timeYear": 391,
     "dailyMinutesDown": {
@@ -130,18 +130,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kitkat.zone.ico",
     "slug": "kit-kat-website",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.84%",
+    "uptimeDay": "84.02%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.84%",
     "time": 578,
     "timeDay": 484,
     "timeWeek": 496,
     "timeMonth": 453,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2024-02-10": 9
+      "2024-02-10": 230
     }
   },
   {
@@ -149,19 +149,19 @@
     "url": "https://explorer.kitkat.zone",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kitkat.zone.ico",
     "slug": "kit-kat-explorer",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "84.61%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.83%",
     "time": 162,
-    "timeDay": 493,
-    "timeWeek": 259,
+    "timeDay": 343,
+    "timeWeek": 250,
     "timeMonth": 169,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-02-10": 0,
+      "2024-02-10": 222,
       "2024-01-03": 15
     }
   },
