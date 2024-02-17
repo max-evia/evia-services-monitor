@@ -1,7 +1,7 @@
 url: https://api.cosmodash.evia.network
-status: down
-code: 502
-responseTime: 331
-lastUpdated: 2024-02-17T13:00:04.942Z
+status: up
+code: 200
+responseTime: 521
+lastUpdated: 2024-02-17T13:17:53.488Z
 startTime: 2023-11-04T04:53:16.107Z
 generator: Upptime <https://github.com/upptime/upptime>
