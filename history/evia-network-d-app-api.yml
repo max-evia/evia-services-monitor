@@ -1,7 +1,7 @@
 url: https://api.propel.evianetwork.com
-status: down
-code: 502
-responseTime: 306
-lastUpdated: 2024-03-08T18:47:06.781Z
+status: up
+code: 200
+responseTime: 361
+lastUpdated: 2024-03-08T18:55:50.791Z
 startTime: 2023-11-04T04:53:15.142Z
 generator: Upptime <https://github.com/upptime/upptime>
